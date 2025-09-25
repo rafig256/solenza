@@ -104,7 +104,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #dbbcb4 0%, #dbbcb4 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -319,7 +319,7 @@ body {
 }
 
 .feature-tag {
-    background: linear-gradient(45deg, #8B4FAE, #D946EF);
+    background: linear-gradient(45deg, #dbbcb4, #fee3d5);
     color: white;
     padding: 0.3rem 0.8rem;
     border-radius: 20px;
@@ -367,7 +367,7 @@ body {
 .feature-item i {
     width: 50px;
     height: 50px;
-    background: linear-gradient(45deg, #8B4FAE, #D946EF);
+    background: linear-gradient(45deg, #dbbcb4, #fee3d5);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -419,7 +419,7 @@ body {
 .contact-item i {
     width: 50px;
     height: 50px;
-    background: linear-gradient(45deg, #8B4FAE, #D946EF);
+    background: linear-gradient(45deg, #dbbcb4, #fee3d5);
     color: white;
     border-radius: 50%;
     display: flex;
@@ -488,7 +488,7 @@ body {
 
 /* Footer */
 .footer {
-    background: #1a202c;
+    background: #d0afaa;
     color: white;
     padding: 3rem 0 1rem;
 }
@@ -544,7 +544,7 @@ body {
 .social-link {
     width: 40px;
     height: 40px;
-    background: linear-gradient(45deg, #8B4FAE, #D946EF);
+    background: linear-gradient(45deg, #dbbcb4, #fee3d5);
     color: white;
     border-radius: 50%;
     display: flex;
